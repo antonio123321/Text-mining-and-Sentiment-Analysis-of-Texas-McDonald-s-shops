@@ -1,0 +1,1 @@
+# Text-mining-and-Sentiment-Analysis-of-Texas-McDonald-s-shops
